@@ -16,7 +16,7 @@ use pocketmine\utils\Config;
 class ChatCensor extends PluginBase {
     
     /** @var string */
-	const PREFIX = "&c[-&aChatCensor&c-]";
+	const PREFIX = "";
 	
 	/** @var string */
 	const API_VERSION = "2.0";
